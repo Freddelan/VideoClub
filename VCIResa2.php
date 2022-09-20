@@ -1,8 +1,8 @@
 <?php
 $serveur = "localhost";
 $user= "root";
-$password = "paradoxe0311";
-$bdd = "videoclub";
+$password = "";
+$bdd = "video";  /** Attention à bien externaliser les paramètres de la base de données (bdd) **/
 
 // PARTIE TRAITEMENT PHP 
 include("entete.php");

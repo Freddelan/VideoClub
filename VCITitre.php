@@ -1,6 +1,6 @@
 <body>
     <h3>test</h3>
-    <?php titreSite() ?>
+    <?php titreSite() ?> <!-- Attention , doublon -->
 </body>
 <?php
 
